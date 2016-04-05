@@ -1,3 +1,3 @@
 # campsite-source.github.io
 Website repository for Campsite Source.
-View the page at campsite-source.github.io
+View the page at http://campsite-source.github.io
